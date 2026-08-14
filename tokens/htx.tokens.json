@@ -1,0 +1,42 @@
+{
+  "system": "htx-design-refer",
+  "version": "0.1.0",
+  "colors": {
+    "brand_blue": "#0066FF",
+    "brand_blue_light": "#2692FF",
+    "vip_gold_core": "#C9A84C",
+    "vip_gold_start": "#DEC48A",
+    "vip_gold_end": "#F5ECD7",
+    "reward_yellow": "#FFC800",
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "divider": "#E8E8E8",
+    "vip_divider": "#E0D5C0"
+  },
+  "gradients": {
+    "brand_blue": {"direction": "top-to-bottom", "from": "#0066FF", "to": "#2692FF"},
+    "vip_gold": {"direction": "top-to-bottom", "from": "#DEC48A", "to": "#F5ECD7"}
+  },
+  "typography": {
+    "latin": "Urbanist",
+    "cjk": "HarmonyOS Sans SC",
+    "weights": [400, 500, 700],
+    "max_weight": 700,
+    "italics": false
+  },
+  "social_1080": {
+    "safe_margin_target_px": 80,
+    "safe_margin_hard_min_px": 64,
+    "logo_size_px": 100,
+    "logo_top_px": 60,
+    "logo_right_px": 60
+  },
+  "families": [
+    "brand-blue-field",
+    "blue-grid-reward",
+    "soft-blue-information",
+    "blue-white-hero",
+    "vip-gold",
+    "huobao-character"
+  ]
+}
