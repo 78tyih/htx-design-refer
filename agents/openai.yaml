@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTX Design Refer"
+  short_description: "HTX 品牌视觉参考系统：6 个视觉家族、媒介路由、品牌 Token 与质检规则"
+  default_prompt: "使用 $htx-design-refer，根据我的内容和媒介选择最合适的 HTX 视觉家族并完成设计。"
